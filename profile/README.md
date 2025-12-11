@@ -2,15 +2,19 @@
 
 ### Repositories
 [freightpower-v2](https://github.com/cs620-schneider-freightpower/freightpower-v2): This repository contains our final implementation of the improved FreightPower app.
+
 [schneider-backend](https://github.com/cs620-schneider-freightpower/schneider-backend)
+
 [schneider-freightpower-cs620](https://github.com/cs620-schneider-freightpower/schneider-freightpower-cs620)
 
 ### Set-up
-Please refer to the freightpower-v2 ReadME for the set-up instructions to view the implementation locally.
+Please refer to the [freightpower-v2](https://github.com/cs620-schneider-freightpower/freightpower-v2) README for the set-up instructions to view the implementation locally.
 
 ### Overview
-This is our architecture diagram:
+This is our architecture diagram, which provides an overview of the platform:
 <img width="970" height="317" alt="Architecture Diagram" src="https://github.com/user-attachments/assets/c2076751-0606-4526-90a6-cbcb5747be92" />
 
-
 ### Next Steps
+There are a few ideas that we would continue to work on:
+* Developing a web version of this app to fully simulate FreightPower
+* Continue to enhance the recommendation engine and explore additional models that could be developed
